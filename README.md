@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyyahya&label=Profile%20views&color=0e75b6&style=flat" alt="codebyyahya" /> </p>
 
-- 💬 Ask me about ** Next js,React,JavaScript,TypeScript**
+- 💬 Ask me about **Next js,React,JavaScript,TypeScript**
 
 - 📫 You can reach me at **yk3131288@gmail.com**
 
